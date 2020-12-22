@@ -1,5 +1,5 @@
 ### Hi there
-🌱 I’m currently learning C, Python, HTML & CSS
+🌱 I’m currently learning Python, HTML & CSS
 
 
 You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
