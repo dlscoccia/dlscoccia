@@ -1,8 +1,9 @@
 ### Hi there
-🌱 I’m currently learning Python, HTML & CSS
+I'am a former web developer & Python lover!
+🌱 Currently learning Python, HTML & CSS
 
 
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
+You can find me on Twitter [![Twitter][1.2]][1].
 
 <!-- Icons -->
 
