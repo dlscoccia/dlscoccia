@@ -1,7 +1,6 @@
 ### Hi there
-I'am a Front-End Software Developer!
-🌱 Currently learning Javascript with React, HTML & CSS.
-
+I'am a Full-Stack Software Developer!
+🌱 Currently working with HTML, Tailwind, Javascript & React with Python Flask Backend.
 
 
 You can find me on Twitter [![Twitter][1.2]][1].
