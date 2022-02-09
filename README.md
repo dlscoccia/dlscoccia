@@ -5,8 +5,9 @@
 [![Twitter URL](https://img.shields.io/twitter/url?label=Twitter&logo=twitter&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdaniel-lorenzo-scoccia%2F)](https://twitter.com/dlscoccia)
 [![Twitter URL](https://img.shields.io/twitter/url?label=linkedin&logo=linkedin&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdaniel-lorenzo-scoccia%2F)](https://www.linkedin.com/in/daniel-lorenzo-scoccia/)
 
-I'm a Full-Stack Software Developer!
+I am a passionate Full Stack Developer who has experience creating beautiful web applications.
 
+Always looking to learn new technologies to develop better solutions.
 
 <!-- Icons -->
 
